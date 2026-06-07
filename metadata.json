@@ -1,0 +1,6 @@
+{
+  "name": "Investor Teh Tarik Nusantara",
+  "description": "Aplikasi investor premium dan profesional khusus untuk memantau usaha Teh Tarik Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
